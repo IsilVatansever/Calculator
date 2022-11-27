@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hesap Makinesi</string>
+    <string name="display_default">0</string>
+    <string name="subdisplay_default"></string>
+</resources>
